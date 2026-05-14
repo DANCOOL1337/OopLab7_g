@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OopLab7Chapter1/1.0.0": {
+        "runtime": {
+          "OopLab7Chapter1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OopLab7Chapter1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
