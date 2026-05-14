@@ -89,6 +89,9 @@ class File:
 
 ### Тестирование
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f8b9b8c-7e6f-4762-9fb9-4b107da02fc4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1d01e5e-d6a6-4d96-b6bc-2304e387512a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a727e777-94e8-42de-9285-d9d36dbcf095" />
+
 
 
 
@@ -113,6 +116,7 @@ class Structures:
 
 ### Тестирование
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e22439cb-6854-44a6-9f3e-0f99a4f0ad79" />
 
 
 ## Задача 7
@@ -132,6 +136,7 @@ class Structures:
 
 
 ### Тестирование
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7be0d7f1-8fab-4273-9787-cd3f3d2962da" />
 
 
 
@@ -187,6 +192,7 @@ class Structures:
 
 
 ### Тестирование
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26fe8153-86f2-44c5-bb8c-baa06b32c2b4" />
 
 
 
